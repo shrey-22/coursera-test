@@ -1,0 +1,27 @@
+
+
+#header-nav {
+	 background-color: #FF0000;
+              border-radius: 0;
+              border: 0;
+ }
+.navbar-brand {
+	 font-weight: bold;
+                text-shadow: 1px 1px 1px #222;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1.5px solid brown;
+}
+.text-center {
+	background-color: #cccccc;
+              padding-top: 0;
+              margin-top: 0;
+              border: 1px solid #DB7903;
+              font-weight: bold;
+              font-size: 18px;
+}
+
+h2,h3,h4 {
+		 height: 1000px; 
+}
